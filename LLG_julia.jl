@@ -1,3 +1,4 @@
+# https://github.com/kswng/Landau-Lifshits-Gilbert
 
 Lx = 10  # system
 Ly = 10  # size
